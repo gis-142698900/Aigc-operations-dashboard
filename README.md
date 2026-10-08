@@ -1,2 +1,22 @@
-# Aigc-operations-dashboard
-AIGC Interactive Screen Operations Dashboard — A demo for monitoring user engagement, generation performance, content moderation, and device status.
+# AIGC 互动大屏运营后台
+
+用于展示 AIGC 互动大屏的运营数据、生成稳定性、内容审核和设备状态。
+
+## 核心模块
+
+- **数据总览**：查看访问人数、参与转化率、分享转化率、生成成功率和平均生成时长。
+- **异常中心**：查看并处理设备、生成和内容相关异常。
+- **内容审核**：结合 AI 风险检测和人工审核处理生成图片。
+- **设备管理**：查看设备在线状态、生成表现、最后心跳和最近异常。
+
+## 数据说明
+
+项目使用模拟运营数据，仅用于产品原型和笔试展示。
+
+## 技术栈
+
+React + TypeScript + Vite + ECharts + PapaParse
+
+## 部署
+
+使用 Vercel 部署。
