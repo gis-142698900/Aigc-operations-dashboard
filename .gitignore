@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.vercel/
+/Data/
+Data and images/
+尚希蔓同花顺笔试提交/
+*.docx
+*.pdf
